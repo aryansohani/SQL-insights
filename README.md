@@ -85,7 +85,7 @@ Retail Sales SQL Analysis: A collection of SQL queries for data cleaning, explor
      end as shift
      from retail_sales 
 ```
-# Retail Sales SQL Analysis Project
+
 
 ## Conclusion
 
