@@ -85,6 +85,26 @@ Retail Sales SQL Analysis: A collection of SQL queries for data cleaning, explor
      end as shift
      from retail_sales 
 ```
+# Retail Sales SQL Analysis Project
 
+## Conclusion
 
+This project demonstrates the ability to clean, explore, and analyze retail sales data using SQL. The queries provided serve as a guide for tackling common data challenges, such as handling missing values, performing aggregation, and deriving insights from large datasets. By analyzing different aspects of the sales data—such as total sales, product categories, customer demographics, and time-based sales patterns—this project provides valuable insights that can help improve business decisions and strategies.
+
+The project successfully uses SQL techniques to extract key metrics, find trends, and prepare data for further analysis. It can be easily adapted for different datasets and expanded to include more complex analyses.
+
+## Features
+
+- **Data Cleaning**: Identifies and removes NULL values in key columns.
+- **Data Exploration**: Counts total sales records, unique customers, and distinct categories.
+- **Aggregated Sales Analysis**: Calculates total sales for each category, and averages customer age for product categories.
+- **Time-based Analysis**: Calculates monthly sales averages, identifies best-selling months, and categorizes sales by shifts (morning, afternoon, evening).
+- **Customer and Product Insights**: Identifies top customers, analyzes purchases across categories, and tracks transaction data based on gender and other parameters.
+- **Shift Classification**: Classifies sales transactions into morning, afternoon, or evening shifts based on sale time.
+
+## Author
+
+**Aryan Sohani**
+
+This project was created and developed by Aryan Sohani, who is passionate about data analysis and SQL. The project demonstrates proficiency in SQL, focusing on practical applications such as data cleaning, aggregation, and trend analysis.
 
